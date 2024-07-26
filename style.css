@@ -1,0 +1,153 @@
+
+p {
+    font-family: "Raleway", sans-serif;
+}
+
+body {
+    background: #C5C6C7;
+}
+
+.navbar  {
+    background-color: #45A29E !important;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: "Manrope", sans-serif;
+}
+
+.carousel-inner {
+    height: 600px;
+}
+
+.custom-cardimg {
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+}
+
+.custom-card {
+    width: 200px;
+    text-align: center;
+    line-height: 0.5;
+}
+
+.custom-btn {
+    width: 90%;
+    background-color: #C5C6C7;
+    border: 3px solid #1F2833;
+    color: #1F2833;
+    height: 50px;
+}
+
+.custom-btn:hover {
+    background-color: #1F2833;
+    color: white;
+}
+
+footer {
+    background-color: #1F2833;
+    color: white;
+    font-family: "Raleway", sans-serif;
+}
+
+.navbar-light {
+    background-color: yellow !important;
+    border: none !important;
+    border-width:0!important;
+}
+
+.custom-line {
+    background-color: #1F2833;
+    width: 30%;
+    height: 4px;
+   
+}
+
+.custom-wata {
+    background-size: cover;
+    width: 300px;
+    height: 400px;
+    background-position: center;
+    position: relative;
+}
+
+#wata-logo {
+    position: absolute;
+    top: 45%;
+    left: 38%;
+    transform: translate(-50%, -50%);
+    color: #45A29E;
+    transform: rotate(90deg);
+    font-size: 17px;
+}
+
+.custom-t-shirt {
+    background-size: cover;
+    width: 500px;
+    height: 400px;
+    background-position: center;
+    position: relative;
+}
+
+#t-shirt-logo {
+    position: absolute;
+    top: 45%;
+    left: 27%;
+    transform: translate(-50%, -50%);
+    color: #45A29E;
+   
+    font-size: 17px;
+}
+
+#t-shirt-logo-2 {
+    position: absolute;
+    top: 45%;
+    left: 72.5%;
+    transform: translate(-50%, -50%);
+    color: #45A29E;
+  
+    font-size: 17px;
+}
+
+.custom-nav-label {
+    width: 30%;
+    z-index: 500;
+    height: 600px;
+    background-color: #1F2833;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+#carouselExampleAutoplaying-featured {
+    width: 70%;
+}
+
+#featured-carousel {
+    width: 90%;
+    margin: 2em auto;
+}
+.cedarville-cursive-regular {
+    font-family: "Cedarville Cursive", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+  .raleroad {
+    font-family: "Raleway", sans-serif;
+  }
+
+
+
+
+
+
+
+
+
+
+  
